@@ -1,2 +1,1 @@
-# This is my Personal-Portfolio website
-It fully responsive
+This is not my portfolio website
